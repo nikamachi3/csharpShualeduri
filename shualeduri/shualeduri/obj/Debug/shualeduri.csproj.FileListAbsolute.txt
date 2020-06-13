@@ -1,0 +1,7 @@
+C:\Users\HaLmSoNa\source\repos\shualeduri\shualeduri\bin\Debug\shualeduri.exe.config
+C:\Users\HaLmSoNa\source\repos\shualeduri\shualeduri\bin\Debug\shualeduri.exe
+C:\Users\HaLmSoNa\source\repos\shualeduri\shualeduri\bin\Debug\shualeduri.pdb
+C:\Users\HaLmSoNa\source\repos\shualeduri\shualeduri\obj\Debug\shualeduri.csprojAssemblyReference.cache
+C:\Users\HaLmSoNa\source\repos\shualeduri\shualeduri\obj\Debug\shualeduri.csproj.CoreCompileInputs.cache
+C:\Users\HaLmSoNa\source\repos\shualeduri\shualeduri\obj\Debug\shualeduri.exe
+C:\Users\HaLmSoNa\source\repos\shualeduri\shualeduri\obj\Debug\shualeduri.pdb
